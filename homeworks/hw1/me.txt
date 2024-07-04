@@ -1,0 +1,5 @@
+Hello hello! 
+
+My name is Mohammad Ali and I am student of OMSCS starting in Spring 2024! 
+Taking this class to brush up on Java in case I take any courses in the
+program which use Java as the main programming language! 

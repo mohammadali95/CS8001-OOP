@@ -1,0 +1,6 @@
+Bad1.java
+    - The name of the class is not the same as the file name - Compile time error.
+Bad2.java
+    - Division by zero - Run time error.
+Bad3.java
+    - Can not assign char a String type - Compile time error.
